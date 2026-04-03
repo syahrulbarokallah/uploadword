@@ -1,0 +1,1 @@
+{\n  "require": {\n    "phpoffice/phpword": "^0.17.0",\n    "monolog/monolog": "^2.0",\n    "guzzlehttp/guzzle": "^7.0"\n  }\n}
